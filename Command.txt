@@ -1,0 +1,8 @@
+git init
+git add MyFile.txt
+
+git config user.name "Hind_INFO"
+git add .
+
+git status
+I added multiple files; added some of the files to source control; no commit yet;
